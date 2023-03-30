@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 <p align="center">
  <a href="https://github.com/wanshika99" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
@@ -30,9 +33,8 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-<br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=wanshika99.wanshika99)<br>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshika99&show_icons=true&theme=tokyonight)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=tokyonight)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshika99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=tokyonight)
 
 
