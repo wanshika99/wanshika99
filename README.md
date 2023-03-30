@@ -31,3 +31,7 @@ Here are some ideas to get you started:
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=wanshika99.wanshika99)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshika99&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=tokyonight)
+
+
