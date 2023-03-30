@@ -30,8 +30,9 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-![](https://visitor-badge.laobi.icu/badge?page_id=wanshika99.wanshika99)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshika99&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=tokyonight)
+<br>
+![](https://visitor-badge.laobi.icu/badge?page_id=wanshika99.wanshika99)<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wanshika99&show_icons=true&theme=tokyonight)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=tokyonight)<br>
 
 
