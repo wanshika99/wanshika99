@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
- <a href="https://github.com/wanshika99" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
- <a href="https://www.linkedin.com/in/rajitha-wanshika/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://github.com/wanshika99" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp; </a>
+ <a href="https://www.linkedin.com/in/rajitha-wanshika/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">&nbsp;</a>
  <a href="mailto:wanshikawar.99@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -57,10 +57,10 @@ Here are some ideas to get you started:
 </p>
 
 ## 🏆 My GitHub Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanshika99&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanshika99&theme=algolia&show_icons=true)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=wanshika99&theme=algolia&show_icons=true)](https://github.com/wanshika99)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=tokyonight&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=algolia&show_icons=true&hide_progress=true)
 
 
 
