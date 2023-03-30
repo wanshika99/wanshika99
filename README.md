@@ -58,7 +58,9 @@ Here are some ideas to get you started:
 
 ## 🏆 My GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wanshika99&theme=algolia&show_icons=true)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=wanshika99&theme=algolia&show_icons=true)](https://github.com/wanshika99)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=algolia&show_icons=true&hide_progress=true)
 
 
