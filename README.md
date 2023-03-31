@@ -64,6 +64,3 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wanshika99&theme=algolia&show_icons=true&hide_progress=true)
 
 
-
-
-
